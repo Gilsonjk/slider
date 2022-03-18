@@ -1,1 +1,1 @@
-# slider
+# https://gilsonjk.github.io/slider/
